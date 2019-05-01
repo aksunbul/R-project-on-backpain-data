@@ -1,6 +1,6 @@
 rm(list=ls())
 dev.off()
-
+ 
 # Loading the data
 load("backpain.RData")
 
